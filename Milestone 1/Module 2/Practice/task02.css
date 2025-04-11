@@ -1,0 +1,19 @@
+.heading {
+    color: blueviolet;
+    text-decoration: underline;
+    text-align: center;
+}
+.lorem {
+    color: red;
+    text-align: justify;
+    font-size: 15px;
+    font-family: Arial;
+    font-style: italic;
+}
+#text {
+    color: green;
+    margin: 5px;
+    border: solid;
+    display: inline-block;
+    padding: 5px;
+}

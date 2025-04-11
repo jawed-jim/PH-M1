@@ -1,0 +1,52 @@
+* {
+    font-family: Arial;
+    font-size: 15px;
+}
+div {
+    border: 3px solid red;
+    margin: 10px;
+    padding: 10px;
+    box-shadow: 5px 5px 5px rgba(255, 0, 0, 0.5);
+}
+#cat-picture {
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+}
+#dog-picture {
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+}
+#shirt-picture {
+    display: block;
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+}
+.cat-para {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+    border: 3px solid black;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .5);
+}
+.dog-para {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+    border: 3px solid black;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, .5);
+}
+.shirt-para {
+    text-align: justify;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+    border: 3px solid black;
+    box-shadow: 3px 3px 3px rgba(256, 0, 0, .5);
+}

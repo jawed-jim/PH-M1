@@ -1,0 +1,22 @@
+.first {
+    background-color: aquamarine;
+    background-image: url('pictures/cat.jpg');
+    background-repeat: repeat-x;
+    background-size: contain;
+    background-position: center;
+}
+.second {
+    background-color: cadetblue;
+    background-image: url('pictures/cat2.jpg');
+    background-repeat: repeat-y;
+    background-size: cover;
+    background-position: right;
+
+}
+.third {
+    background-color: darksalmon;
+    background-image: url(pictures/dog.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: top;
+}
