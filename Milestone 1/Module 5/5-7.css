@@ -15,6 +15,7 @@
     border-radius: 8px;
     background: rgb(82, 195, 3);
     border: none;
+    margin-top: 25px;
     cursor: pointer;
 }
 .btn-container {
@@ -93,7 +94,6 @@
     display: flex;
     justify-content: space-between;
     font-family: Work Sans;
-
 }
 .card {
     max-width: 250px;
