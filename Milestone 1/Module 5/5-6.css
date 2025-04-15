@@ -5,7 +5,7 @@
 }
 #hero {
     height: 551.4px;
-    background-image: linear-gradient(180.00deg, rgb(9, 9, 9) 3.482%,rgba(16, 16, 16, 0) 101.632%), url("make-essential-UI-components-Resources/assets/hero-bg.png");
+    background-image: linear-gradient(180.00deg, rgb(9, 9, 9) 3.482%,rgba(16, 16, 16, 0) 101.632%), url("Resources/assets/hero-bg.png");
     background-size: cover;
     background-position: center;
     display: flex;
