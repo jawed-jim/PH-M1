@@ -1,4 +1,13 @@
 /* Shared styles */
+
+.open-sans-normal {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+}
 .text-primary {
     color: #FD6E0A;
 }
@@ -7,35 +16,33 @@
 }
 .btn-primary {
     background-color: #FD6E0A;
-    font-weight: bold;
     color: white;
-    font-size: 20px;
+    font-weight: bold;
+    padding: 18px 36px;
     border: none;
-    margin: 18px 36px;
-    padding: 5px;
+    border-radius: 5px;
 }
 
 /* Nav styles */
 nav {
     display: flex;
-    text-align: center;
+    align-items: center;
     justify-content: space-between;
-    margin: 0px 100px;
+    margin: 0px 50px;
 }
 .nav-title {
-    font-weight: 800;
+    font-weight: bold;
     font-size: 45px;
 }
 nav ul {
     display: flex;
     align-items: center;
-    
 }
 nav ul li {
     list-style: none;
     margin-right: 50px;
 }
-nav li a {
+nav ul li a {
     text-decoration: none;
     font-size: 20px;
 }
